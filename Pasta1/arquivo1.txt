@@ -9,3 +9,5 @@ git add . para adicionar todos os arquivos a enviar para commit
 git commit -m "escrever o texto referencia do commit"
 
 git push origin (espaço mais o nome da brach na frente)
+
+git pull origin (espaço mais o nome da brach na frente)
