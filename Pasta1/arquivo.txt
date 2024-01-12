@@ -1,0 +1,5 @@
+ls - listar arquivos e pastas dentro de um diretorio
+
+cd - é para movimentação entre diretorios
+
+git status - mostra tudo que foi modificado no seu repositorio local
