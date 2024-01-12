@@ -3,3 +3,9 @@ ls - listar arquivos e pastas dentro de um diretorio
 cd - é para movimentação entre diretorios
 
 git status - mostra tudo que foi modificado no seu repositorio local
+
+git add . para adicionar todos os arquivos a enviar para commit
+
+git commit -m "escrever o texto referencia do commit"
+
+git push origin (espaço mais o nome da brach na frente)
