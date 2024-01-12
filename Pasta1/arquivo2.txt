@@ -1,0 +1,1 @@
+git pull  - é para trazer as informações de outro branch
