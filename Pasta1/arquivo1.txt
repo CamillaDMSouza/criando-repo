@@ -19,3 +19,8 @@ git fetch - trazer todo o historico da branch
 git switch (espaço mais o nome da brach na frente) - mudar para a brach desejada
 
 git checkout (espaço mais o nome da brach na frente)- criar a branch
+
+git checkout -b (espaço mais o nome da brach na frente)- criar a branch
+
+git branch -d  (espaço mais o nome da brach na frente)- deletar a branch
+
