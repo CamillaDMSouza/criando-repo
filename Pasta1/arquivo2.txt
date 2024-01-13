@@ -1,1 +1,1 @@
-git pull origin (espaço mais o nome da branch)  - é para trazer as informações de outro branch
+git pull origin (espaço mais o nome da branch)  - é para trazer as informações de outro branch / git checkout - (espaço mais o nome da brach na frente)- criar a branch
