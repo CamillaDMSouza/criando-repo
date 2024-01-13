@@ -11,3 +11,11 @@ git commit -m "escrever o texto referencia do commit"
 git push origin (espaço mais o nome da brach na frente)
 
 git pull origin (espaço mais o nome da brach na frente)
+
+git branch - listar todas as branchs do repositório local
+
+git fetch - trazer todo o historico da branch
+
+git switch (espaço mais o nome da brach na frente) - mudar para a brach desejada
+
+git checkout (espaço mais o nome da brach na frente)- criar a branch
