@@ -1,3 +1,5 @@
 alteração para geral conflito pois não conseguimos verificar antes 
 novo conflito123
 alteração para geral conflito para simular erro
+
+criando brach e fazendo pull request
